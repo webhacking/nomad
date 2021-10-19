@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/prompts": "^2.0.3",
+    "@types/prompts": "2.0.14",
     "@types/set-cookie-parser": "0.0.6",
     "@types/tough-cookie": "^2.3.6",
     "@types/user-agents": "^1.0.0"
