@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/webhacking/nomad#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^1.0.0",
     "axios-cookiejar-support": "^0.5.1",
     "prompts": "^2.3.0",
     "rxjs": "^6.5.4",
