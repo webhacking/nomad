@@ -23,14 +23,14 @@
     "prompts": "^2.3.0",
     "rxjs": "^6.5.4",
     "set-cookie-parser": "^2.4.1",
-    "tough-cookie": "^3.0.1",
+    "tough-cookie": "^4.0.0",
     "user-agents": "^1.0.490"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/prompts": "^2.0.3",
     "@types/set-cookie-parser": "0.0.6",
-    "@types/tough-cookie": "^2.3.6",
+    "@types/tough-cookie": "^4.0.0",
     "@types/user-agents": "^1.0.0"
   }
 }
