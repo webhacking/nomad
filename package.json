@@ -23,7 +23,7 @@
     "prompts": "^2.3.0",
     "rxjs": "^6.5.4",
     "set-cookie-parser": "^2.4.1",
-    "tough-cookie": "^3.0.1",
+    "tough-cookie": "^4.0.0",
     "user-agents": "^1.0.490"
   },
   "devDependencies": {
